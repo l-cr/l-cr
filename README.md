@@ -1,7 +1,7 @@
 ### Hi there 👋 
 🌱 Keep enthusiasm, and enjoy the process!
 
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=l-cr>
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=l-cr">
 
 
 <!--
