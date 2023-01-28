@@ -1,5 +1,5 @@
 ### Hi there 👋 
-🌱 I’m a Chinese college student, I’m currently learning java web development!
+🌱 Keep enthusiasm, and enjoy the process!
 
 <!--
 **south-maple/south-maple** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
